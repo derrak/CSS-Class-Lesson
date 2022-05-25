@@ -7,3 +7,13 @@
     color: darkgreen;
 
 }
+
+.round {
+  border-radius: 50%;
+}
+
+body {
+  
+  text-align: center
+
+}
