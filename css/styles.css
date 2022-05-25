@@ -4,7 +4,7 @@
 
 .paragraph {
     font-style: oblique;
-    color: darkgreen;
+    color: rgb(185, 221, 23);
 
 }
 
@@ -16,4 +16,9 @@ body {
   
   text-align: center
 
-}s
+}
+
+.highlight {
+     color: red;
+
+}
